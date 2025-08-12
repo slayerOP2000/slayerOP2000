@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Machine Learning, and LangChain**
 - 💬 Ask me about **Python, Pandas, NumPy, and Data Visualization**
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **saxena2000anurag@gmail.com**
 - ⚡ Fun fact: *I debug code faster with coffee ☕*
 
 ---
@@ -17,11 +17,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-004d99?style=for-the-badge&logo=plotly&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 
----
 
-### 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
