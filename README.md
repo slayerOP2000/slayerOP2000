@@ -1,22 +1,12 @@
-About Me 👋
-Hello there! I'm Anurag Saxena 😊
+## Hi, I'm Anurag 👋
+🚀 Fresher in Python, DSA, Data Science & GenAI  
+💡 Currently learning: Machine Learning, LangChain, and Algorithms  
+📊 Love building: Data Visualizations & AI-powered tools  
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/...) | [Email](mailto:you@example.com)
 
-I'm a passionate **Website Developer and Graphic Designer** with a knack for creating visually stunning and highly functional digital experiences. With a blend of creative artistry and technical expertise, I bring your ideas to life on the web.
-
-🔧**** **Skills & Technologie*****
-**Frontend Development**: HTML, CSS, JavaScript, React
-**Backend Development**: Node.js, Express, MongoDB
-**Graphic Design**: Adobe Photoshop, Illustrator, Figma
-**Responsive Design**: Ensuring seamless experiences across devices
-**UI/UX Design**: Crafting user-friendly interfaces and engaging user experiences
-🌟 ****What I Do**
-**Custom Website**s: Tailored solutions to fit your unique needs
-**E-commerce Platforms**: Robust online stores that drive sales
-**Graphic Design**: Logos, branding, marketing materials
-**Web App Development**: Interactive and dynamic web applications
-🌱 **Always Learning**
-I'm constantly evolving, staying up-to-date with the latest trends and technologies. Currently, I'm diving deeper into:
-
-Web3 and Blockchain Development
-Advanced Animation Techniques
-AI and Machine Learning for Design
+---
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
