@@ -3,10 +3,10 @@
 
 ---
 
-🌱 Data Structures & Algorithms, Machine Learning, and LangChain
-💬 Ask me about Python, Pandas, NumPy, and Data Visualization
-📫 How to reach me: saxena2000anurag@gmail.com
-⚡ Fun fact: I debug code faster with coffee ☕
+- 🌱 Data Structures & Algorithms, Machine Learning, and LangChain
+- 💬 Ask me about Python, Pandas, NumPy, and Data Visualization
+- 📫 How to reach me: saxena2000anurag@gmail.com
+- ⚡ Fun fact: I debug code faster with coffee ☕
 
 ---
 
